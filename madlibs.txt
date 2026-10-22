@@ -1,12 +1,12 @@
-adjective (descriptor): Belisarius
-adjective (descriptor): Byzantium
-plural noun (person/place/thing): Rome
-a number: 7
-plural noun (person/place/thing): Georgia
-adjective (descriptor): Country
-proper noun (name of a person/place/thing): Jesus
-verb (action word) ending in -ing: Preaching
-adjective (descriptor): Greek
-noun (person/place/thing): Hellenic
-adjective (descriptor): Wrestling
-noun (person/place/thing): Kurt Angle
+: Belisarius
+: Byzantium
+: Rome
+: 7
+: Georgia
+: Country
+: Jesus
+: Preaching
+: Greek
+: Hellenic
+: Wrestling
+: Kurt Angle
